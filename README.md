@@ -161,8 +161,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=safeer-jan&show_icons=true&theme=default&hide_border=true&title_color=1e3c72&icon_color=2a5298&text_color=333333"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeer-jan&layout=compact&hide_border=true&title_color=1e3c72&text_color=333333"/>
+<img src="https://img.shields.io/github/followers/safeer-jan?label=Followers&style=flat-square&logo=github&logoColor=white&color=1e3c72"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsafeer-jan&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=white&color=2a5298"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsafeer-jan&query=%24.public_gists&label=Public%20Gists&style=flat-square&logo=github&logoColor=white&color=1e3c72"/>
 
 <br/>
 
