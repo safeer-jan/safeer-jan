@@ -167,7 +167,11 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=safeer-jan&hide_border=true&background=FFFFFF00&stroke=1e3c72&ring=2a5298&fire=2a5298&currStreakLabel=1e3c72"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=safeer-jan&hide_border=true&background=00000000&stroke=6EA8FE&ring=6EA8FE&fire=F2A65A&currStreakLabel=6EA8FE&currStreakNum=F3F2EE&sideNums=F3F2EE&sideLabels=C9D1D9&dates=8B949E"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=safeer-jan&hide_border=true&background=FFFFFF00&stroke=1e3c72&ring=2a5298&fire=2a5298&currStreakLabel=1e3c72&currStreakNum=0F1E3D&sideNums=0F1E3D&sideLabels=333333&dates=5B6472"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safeer-jan&hide_border=true&background=FFFFFF00&stroke=1e3c72&ring=2a5298&fire=2a5298&currStreakLabel=1e3c72&currStreakNum=0F1E3D&sideNums=0F1E3D&sideLabels=333333&dates=5B6472" alt="GitHub streak stats"/>
+</picture>
 
 </div>
 
